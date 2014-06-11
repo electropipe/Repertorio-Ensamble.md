@@ -1,11 +1,11 @@
 
-###Ensambles electonicos:
+###Ensambles electrónicos:
 
  [Debut](http://picosong.com/PY5b)  
- [Operacion Orquidea](http://picosong.com/PYLF)   
- [La Ultima Granada]()  
- 
-------
+ [Operación Orquídea](http://picosong.com/PYLF)   
+ [La Última Granada]()  
+
+---------
 
 ### 1.	 Ritmo Base   (4 personas)
 
